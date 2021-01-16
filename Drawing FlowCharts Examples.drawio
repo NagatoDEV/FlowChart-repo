@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2021-01-16T05:46:15.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yPLpZ3Y5gLyrTl9D5e3X" version="14.2.4" type="github">
+  <diagram id="noXFZZSKF0vLPNn8F-W-" name="Page-1">
+    <mxGraphModel dx="4234" dy="1700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#CDB8FF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ZKNdpwnMmQRGDVSdi2r-1" value="&lt;font size=&quot;3&quot;&gt;This is the &lt;b&gt;Terminator = Utilized as Start &amp;amp; Stop functions&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-2814" y="-538" width="276" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZKNdpwnMmQRGDVSdi2r-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;The rectangle&amp;nbsp;is utilized as a processing&amp;nbsp;symbol.&lt;br&gt;&lt;br&gt;- Usually contains processing statements such as arithmetic.&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2825" y="-312" width="314" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZKNdpwnMmQRGDVSdi2r-3" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;This symbol is utilized as Input or Output&lt;br&gt;&lt;br&gt;- Indicates Input Operation&lt;br&gt;&lt;br&gt;- Parallelogram&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-2368" y="-557" width="541" height="228" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
